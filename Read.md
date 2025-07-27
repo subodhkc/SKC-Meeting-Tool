@@ -1,68 +1,41 @@
-Agenda: SKC Meeting ResetFrame™
+# SKC Meeting Tool™
 
-(Use this when discussions are circling and clarity is fading)
+A tactical decision-making toolkit for project managers and technical leads. Built to reduce decision fatigue, align teams faster, and prevent circular conversations in fast-paced environments.
 
-Title: Reset Meeting – \[Insert Topic Name]
+## What’s Included
 
-Duration: 30–45 minutes
+1. **SKC ResetFrame™**  
+   A structured conversation framework for high-trust discussions — ideal for tackling technical uncertainty, cross-functional misalignment, or recurring sync issues.  
+   [Download SKC ResetFrame Guide (PDF)](./ResetFrame/SKC_ResetFrame_v1.pdf)
 
-Facilitator: \[Assigned PM or team lead]
+2. **PM Cheat Sheet**  
+   A concise reference for project managers to confidently run SKC ResetFrame sessions.  
+   [Download PM Cheat Sheet (PDF)](./ResetFrame/SKC_PM_CheatSheet.pdf)
 
+---
 
+## Why Use SKC
 
-Agenda Outline:
+1. Helps your team move from circular talk to clear next steps  
+2. Clarifies ownership and prevents ambiguity  
+3. Works across roles, cultures, and meeting styles  
+4. Designed for high-velocity, high-stakes environments
 
-&nbsp;	1. Welcome + Purpose (2 min)
+---
 
-&nbsp;		○ “We’re using this session to realign and move this topic forward.”
+## What’s Next
 
-&nbsp;		○ State the stuck topic in one sentence.
+The SKC Method Suite is growing. Upcoming frameworks in development include:
 
-&nbsp;	2. SCAN – Establish Shared Reality (5–7 min)
+1. **SKC Rapid Resolve™** – For quick triage and decision alignment in 15 minutes or less  
+2. **SKC StrikeFrame™** – Built for high-pressure, incident-style meetings with command clarity  
+3. **SKC Playbook Companion** – A lightweight add-on that maps SKC flows to real PM scenarios
 
-&nbsp;		○ What do we actually know?
+These will be added as standalone modules — each focused, field-tested, and designed to plug into real-world decision rhythms.
 
-&nbsp;		○ What’s still unclear?
+---
 
-&nbsp;		○ Shared data or context review
+## License
 
-&nbsp;	3. SENSE – Reactions \& Tensions (5–7 min)
-
-&nbsp;		○ What are people feeling or struggling with?
-
-&nbsp;		○ Where’s the hesitation?
-
-&nbsp;	4. SPOTLIGHT – What’s Working? (5–7 min)
-
-&nbsp;		○ What’s still on track?
-
-&nbsp;		○ What can we build on?
-
-&nbsp;	5. STRESS TEST – What Could Break? (7–8 min)
-
-&nbsp;		○ Where’s the risk or fragility?
-
-&nbsp;		○ Any worst-case outcomes?
-
-&nbsp;	6. STRETCH – Alternate Options (5–7 min)
-
-&nbsp;		○ What haven’t we tried?
-
-&nbsp;		○ Are there creative or simplified approaches?
-
-&nbsp;	7. SYNTHESIZE – What’s Next? (5–8 min)
-
-&nbsp;		○ Final direction or decision
-
-&nbsp;		○ Action items with owners
-
-&nbsp;		○ Confirm next checkpoint (if needed)
-
-&nbsp;	8. Close Out (2 min)
-
-&nbsp;		○ Optional one-word checkout
-
-&nbsp;		○ Restate the outcome: “This session resulted in…”
-
-
-
+Released under the Apache 2.0 License — free to use, adapt, and share with credit.  
+© 2025 Subodh KC
